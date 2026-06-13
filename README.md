@@ -1,6 +1,6 @@
 ![Banner](./bannerGh.png)
 
-# Hola, soy Sofia :3 
+# Hola, soy Sofia Sanchez
 Estudiante de **Desarrollo de Aplicaciones Web** especializada en full-stack.
 
 ## 💻 Stack Tecnológico
